@@ -1,0 +1,12 @@
+[submodule "ase-delivery-service"]
+	path = ase-delivery-service
+	url = https://github.com/yigiterinc/ase-delivery-service
+[submodule "ase-delivery-frontend"]
+	path = ase-delivery-frontend
+	url = https://github.com/yigiterinc/ase-delivery-frontend
+[submodule "ase-delivery-api-gateway"]
+	path = ase-delivery-api-gateway
+	url = https://github.com/yigiterinc/ase-delivery-api-gateway
+[submodule "ase-customer-authentication-service"]
+	path = ase-customer-authentication-service
+	url = https://github.com/yigiterinc/ase-customer-authentication-service
