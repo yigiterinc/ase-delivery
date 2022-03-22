@@ -10,3 +10,6 @@
 [submodule "ase-customer-authentication-service"]
 	path = ase-customer-authentication-service
 	url = https://github.com/yigiterinc/ase-customer-authentication-service
+[submodule "ase-delivery-deployment"]
+	path = ase-delivery-deployment
+	url = https://github.com/yigiterinc/ase-delivery-deployment
