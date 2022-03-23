@@ -13,3 +13,6 @@
 [submodule "ase-delivery-deployment"]
 	path = ase-delivery-deployment
 	url = https://github.com/yigiterinc/ase-delivery-deployment
+[submodule "ase-delivery-hardware"]
+	path = ase-delivery-hardware
+	url = https://github.com/yigiterinc/ase-delivery-hardware
