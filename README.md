@@ -47,3 +47,7 @@ For a more detailed explanation of the project please refer to the project descr
 - Docker, docker-compose (see the docker-compose in ase-delivery-deployment repo)
 - AWS (project was originally deployed to AWS by our GitLab CI process)
 - GitLab CI/CD (.gitlab-ci.yml file and our CI process can be found in ase-delivery-deployment repo)
+
+## Contributors
+- Yigit Kemal Erinc (@yigiterinc) - Backend and the frontend
+- Nils Morbitzer (@morbi25) - Parts of delivery-service, raspberry-pi parts and the CI/CD pipeline
