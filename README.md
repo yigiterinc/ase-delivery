@@ -50,4 +50,4 @@ For a more detailed explanation of the project please refer to the project descr
 
 ## Contributors
 - Yigit Kemal Erinc (@yigiterinc) - Backend and the frontend
-- Nils Morbitzer (@morbi25) - Parts of delivery-service, raspberry-pi parts and the CI/CD pipeline
+- Nils Morbitzer (@morbi25, @ge23tam) - Hardware (raspberry pi), deployment (CI/CD pipeline, AWS, docker-compose), and parts of the delivery-service
